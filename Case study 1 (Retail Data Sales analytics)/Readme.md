@@ -1,4 +1,4 @@
-Key Analysis in Retail Case study: 
+<B> Key Analysis in Retail Case study: </B> 
 
 1. Visualizing No. of Sales for all Customers
 2. Visualizing Money Spent for all Customer
