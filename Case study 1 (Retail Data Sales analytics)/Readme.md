@@ -9,11 +9,11 @@ Key Analysis in Retail Case study:
 7. Distribution of unit price
 8. Free items in Data 
 9. Number of unique customers in each country
-10.Total money spent by each country
-11.Number of Unique customers per month
-12.Ratio of Repeat to Unique customers
-13.Quantity of each item sold per month
-14.Rank items by the last month's sales
-15.Top 5 items sale per month 
-16.Generate a monthly trend of each of the top 5 items
+10. Total money spent by each country
+11. Number of Unique customers per month
+12. Ratio of Repeat to Unique customers
+13. Quantity of each item sold per month
+14. Rank items by the last month's sales
+15. Top 5 items sale per month 
+16. Generate a monthly trend of each of the top 5 items
 
